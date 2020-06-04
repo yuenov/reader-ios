@@ -1,0 +1,29 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+inhibit_all_warnings!
+source 'https://github.com/CocoaPods/Specs.git'
+target 'Reader' do
+  pod 'YYModel', '~> 1.0.4'
+  pod 'SDWebImage', '~> 5.6.0'
+  pod 'SDWebImageWebPCoder', '~> 0.5.0'
+  pod 'JLRoutes', '1.6.2'
+  pod 'GBDeviceInfo', '~> 6.3.0'
+  pod 'MJRefresh', '~> 3.1.14'
+  pod 'WMPageController', '~> 2.5.0'
+  pod 'Masonry', '~> 1.1.0'
+  pod 'KVOController', '~> 1.2.0'
+  pod 'MGSwipeTableCell', '~> 1.6.8'
+  pod 'WCDB', '~> 1.0.7'
+  pod 'YYText'
+#  pod 'OHHTTPStubs'
+  pod 'YTKNetwork'
+  pod 'RDVTabBarController'
+  pod 'FDFullscreenPopGesture', '1.1'
+  pod 'MBProgressHUD'
+  pod 'WCDB', '~> 1.0.7'
+  pod 'UITextView+Placeholder'
+  pod 'UICKeyChainStore', '2.1.2'
+  pod 'GBDeviceInfo', '~> 6.3.0'
+  pod 'NJKWebViewProgress'
+
+end

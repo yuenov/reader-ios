@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd67ba05-aa84-44c8-a2a4-d38bfe0ff408" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Reader.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader/Common/Config/RDReadConfigManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/Reader/Common/Config/RDReadConfigManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader/Sections/Bookshelf/Read/RDReadController.m" beforeDir="false" afterPath="$PROJECT_DIR$/Reader/Sections/Bookshelf/Read/RDReadController.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader/Sections/Bookshelf/Read/View/RDBatteryView.m" beforeDir="false" afterPath="$PROJECT_DIR$/Reader/Sections/Bookshelf/Read/View/RDBatteryView.m" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_881AB86B-0564-4CB2-9B3B-D3B1B82DB6D5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SbdLp6suKCl1Y2G456XWk2Waj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="Reader" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Reader" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Reader" TARGET_NAME="Reader" CONFIG_NAME="Debug" SCHEME_NAME="Reader" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Reader" RUN_TARGET_NAME="Reader" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd67ba05-aa84-44c8-a2a4-d38bfe0ff408" name="Default Changelist" comment="" />
+      <created>1571836175921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571836175921</updated>
+      <workItem from="1571836178419" duration="1215000" />
+      <workItem from="1571882816654" duration="10370000" />
+      <workItem from="1571916169454" duration="839000" />
+      <workItem from="1571968060016" duration="14939000" />
+      <workItem from="1572934750192" duration="3844000" />
+      <workItem from="1573611119890" duration="16000" />
+      <workItem from="1576822729089" duration="4489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

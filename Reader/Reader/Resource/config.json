@@ -1,0 +1,132 @@
+{
+    "categories": [{
+        "categoryId": 1,
+        "categoryName": "玄幻小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 2,
+        "categoryName": "修真小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 3,
+        "categoryName": "都市小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 5,
+        "categoryName": "网游小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 6,
+        "categoryName": "科幻灵异",
+        "coverImgs": []
+    }, {
+        "categoryId": 7,
+        "categoryName": "历史小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 8,
+        "categoryName": "言情小说",
+        "coverImgs": []
+    }, {
+        "categoryId": 9,
+        "categoryName": "其他小说",
+        "coverImgs": []
+    }],
+    "hotSearch": [{
+        "author": "跃千愁",
+        "bookId": 30943,
+        "categoryName": "都市小说",
+        "chapterStatus": "END",
+        "coverImg": "/file/group1/book/0a00f412-3058-46b4-9988-6e3990f2cadb.jpg",
+        "desc": " 世上有一群吃饱了饭没事干的精英人士，或来自权贵世家，或来自市井平民，当这群觉得生活无聊而四处寻找刺激的国际精英凑到一起后，世上就没有他们不敢干的事情，不为钱权和名利，寻的就是一个刺激。久而久之，这群人竟然在地下世界打出了一个响当当的招牌——国际闲人！当国际闲人的招牌越来越响亮后，慕名而来的人也越来越多，于是国际闲人原来的宗旨变得有些不纯粹了，大多数人都是冲着它招牌响亮能赚钱来的，鱼龙混杂。在闲人是否组织化做大做强的争议表决中，赞成者居多。原来的一帮老人对利用闲人赚钱没兴趣，纷纷退出了，林子闲这个国际闲人的创立者也默默隐退，回到了国内……潜龙在渊，迟早飞天，拉风的男人走到哪里都是牛光闪闪，他真能称心如意地退出江湖吗？ ",
+        "title": "美女如云之国际闲人",
+        "word": "444万字"
+    }, {
+        "author": "黑夜de白羊",
+        "bookId": 30979,
+        "categoryName": "修真小说",
+        "chapterStatus": "END",
+        "coverImg": "/file/group1/book/e69f5b25-a711-4289-9923-2164c08c0b42.jpg",
+        "desc": " 《我的美女老师》改编网剧震撼来袭　　17K独家签约小说，黑夜de白羊代表作品，两亿点击神作《我的美女老师》同名改编网剧爱奇艺热播，600万字原著小说全本免费！ ",
+        "title": "我的美女老师",
+        "word": "859万字"
+    }, {
+        "author": "霉干菜烧饼",
+        "bookId": 31074,
+        "categoryName": "都市小说",
+        "chapterStatus": "END",
+        "coverImg": "/file/group1/book/c0d69843-f7df-4160-8c4e-55343380b01c.jpg",
+        "desc": " 简单地说，就是一个男人和一群女人的故事。都市感情生活为主，玄幻为辅，卫道士慎入…… ",
+        "title": "我的美女总裁老婆",
+        "word": "554万字"
+    }, {
+        "author": "醉酒望明月",
+        "bookId": 33196,
+        "categoryName": "都市小说",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/a0fe3f3d-803f-4fb7-8d86-2995fa5c12e9.jpg",
+        "desc": " 他是纵横西方地下世界的王者，血腥而冷酷！他是吊儿郎当的小男人，让人又爱又恨！当夏风回到华夏暗中保护“碧海集团”的女总裁时，接二连三的美女逐渐走入他的生活，现生活别有一番滋味。（新书开始了，希望新老朋友，多多支持，明月这里谢过了。 ",
+        "title": "我的23岁美女总裁",
+        "word": "455万字"
+    }, {
+        "author": "天下霸唱",
+        "bookId": 78384,
+        "categoryName": "科幻灵异",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/900cfa66-ba2e-4c51-83d0-9d9d595e3f59.jpg",
+        "desc": " 远古的文明，失落的宝藏，神秘莫测的古墓，没有什么比这些元素更能吸引观众的眼球了，现在世界上正在兴起一股“古墓经济”，美国商业大片《盗墓迷城》《夺宝奇兵》，经典电玩游戏《古墓丽影》，无不获得巨大的商业成功，这些虚拟出来的“古墓”，使人们在舒适的电影院或者家中，跟随着电影或者游戏中的主人公展开惊心动魄，波澜壮阔的大冒险，体验前所未有的刺激。 ",
+        "title": "鬼吹灯",
+        "word": "273万字"
+    }, {
+        "author": "冰雪花絮",
+        "bookId": 91843,
+        "categoryName": "科幻灵异",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/30c0853d-cbf2-41f2-8295-c8f6e35b9912.jpg",
+        "desc": " 【【2017灵异中元祭泛题材征文】参赛作品】胡厉，王宗瑜，杨清觅三人组隐居深山，一美国佬不知从哪得知，三人本领非凡，居然找到他们，并出重金嘱托，帮他寻一件字画。贪钱的王宗瑜不顾其余二人的反对，接了下来，就这样，他们走上探险之旅的道路。危险层出不穷，抓鬼抓妖忙活不停，最终遇上乾陵大粽子………… ",
+        "title": "鬼吹灯之罕世乾陵",
+        "word": ""
+    }, {
+        "author": "东北来的流氓",
+        "bookId": 107671,
+        "categoryName": "科幻灵异",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/1f954d9c-aec8-4443-bcf9-b14b266885ba.jpg",
+        "desc": " 第二百八十六章尾声（大结局）　　  封幕晴在我和铁蛋身后猛地尖声惊叫，冷不丁的吓得我们哥俩差点把好不容易从棺材里捞出来的人形事物跌落回去。全本小说网幸好铁蛋手疾眼快，硬　　　　  生生的把人形事物给报了出来，扔到地上。我扭头询问封幕晴到底发生了什么事情，在我的印象里，她的心智一向十分坚韧，并不是大 ",
+        "title": "鬼吹灯3",
+        "word": "89万字"
+    }, {
+        "author": "独孤一叶",
+        "bookId": 109461,
+        "categoryName": "其他小说",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/1f954d9c-aec8-4443-bcf9-b14b266885ba.jpg",
+        "desc": " 尾声　　野异篇 尾声　　　　    我和陈静倪回到北京之后，她终于答应嫁给我了。　　　　    新婚之夜，她突然了我一个问题，到这时我才明白她为什么要跟金爱英（金博士）出国，她又为什么要和金爱英一起拉我下水 ",
+        "title": "鬼吹灯同人之雌雄双盗",
+        "word": "26万字"
+    }, {
+        "author": "本物天下霸唱",
+        "bookId": 109526,
+        "categoryName": "科幻灵异",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/ecc1c0bc-5196-4616-8341-51388ece042b.jpg",
+        "desc": " 后记　　    我写的《鬼吹灯》这部书前后两部，共计八册，顺序依次是《精绝古城》、《龙岭迷窟》、《云南虫谷》、《昆仑神宫》、《黄皮子坟》、《南海归墟》、《怒晴湘西》、《巫峡棺山》。　　　　    从2006年2月份开始，直至2008年2月底，前前后后总共写了整 ",
+        "title": "鬼吹灯II",
+        "word": ""
+    }, {
+        "author": "梓里青桐",
+        "bookId": 160345,
+        "categoryName": "其他小说",
+        "chapterStatus": "SERIALIZE",
+        "coverImg": "/file/group1/book/6d489446-ebf1-4811-b3dc-1db4be5ec8cf.jpg",
+        "desc": " 回到北京之后，我胡八一，连同胖子和大金牙准备重操旧业——潘家园练摊子。一天早上的收货，又引来了一系列的谜团……离奇神秘的双宝密函，再度出现的三大神珠、又将我们引入到过往的经历的那些……还有什么在等着我们？谁知道。 ",
+        "title": "鬼吹灯：最终阴谋",
+        "word": ""
+    }],
+    "ports": [
+        "15555",
+        "16666",
+        "17777",
+        "18888",
+        "19999"]
+}
