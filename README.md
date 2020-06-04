@@ -56,7 +56,7 @@ fatal: unable to access 'https://chromium.googlesource.com/webm/libwebp/': Faile
 1. 在cocoapods的仓库找到libwebp的路径，默认路径如下
 
     ```
-        ~/.cocoapods/repos/{cocoapods主仓库名称}/Specs/1/9/2/libwebp
+    ~/.cocoapods/repos/{cocoapods主仓库名称}/Specs/1/9/2/libwebp
     ```
 
 2. 找到对应的库版本，这里使用的是1.1.0，打开该文件夹下面的`libwebp.podspec.json`文件
@@ -75,6 +75,3 @@ fatal: unable to access 'https://chromium.googlesource.com/webm/libwebp/': Faile
 ## 声明
 
 **服务器只提供搜索以及在线转码的计算能力，没有存储任何小说内容。如有任何疑问请通过上面提供的联系方式联系我们。**
-
-
-
